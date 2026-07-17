@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-17T09:14:03.579586+00:00",
+  "data_status": "synthetic",
+  "notice": "当前页面使用合成演示数据，不代表真实行业资讯。",
+  "industries": [
+    {
+      "id": "mining",
+      "name": "矿山行业"
+    },
+    {
+      "id": "metallurgy",
+      "name": "冶金行业"
+    }
+  ],
+  "items": [
+    {
+      "title": "钢铁企业启动高炉区域传动设备节能改造论证",
+      "published_at": "2026-07-15T07:10:00+00:00",
+      "original_url": "https://demo.invalid/metallurgy/001",
+      "source_name": "合成钢铁产业网",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "改造论证覆盖原料输送、冷却和除尘系统，重点比较设备能效、可靠性及停机窗口安排。"
+    },
+    {
+      "title": "西北某大型露天矿启动智慧矿山运输系统升级",
+      "published_at": "2026-07-15T01:30:00+00:00",
+      "original_url": "https://demo.invalid/mining/001?utm_source=demo",
+      "source_name": "合成矿业观察",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "项目拟升级无人运输调度、破碎站和皮带输送系统，并计划对关键矿用减速机开展状态监测改造。"
+    },
+    {
+      "title": "矿山安全改造项目集中发布井下设备采购需求",
+      "published_at": "2026-07-14T06:10:00+00:00",
+      "original_url": "https://demo.invalid/mining/002",
+      "source_name": "合成装备资讯",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "多项煤矿智能化和安全改造计划涉及刮板输送机、破碎机、提升机及配套传动设备，项目仍处于公开需求阶段。"
+    },
+    {
+      "title": "绿色低碳炼钢项目推进电炉产线配套设备选型",
+      "published_at": "2026-07-14T04:30:00+00:00",
+      "original_url": "https://demo.invalid/metallurgy/002",
+      "source_name": "合成冶金周刊",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "项目团队正在评估电炉、连铸和除尘系统的配套方案，传动设备能耗与维护便利性列入技术评分。"
+    },
+    {
+      "title": "高端钢材产线改造提升轧钢设备精度要求",
+      "published_at": "2026-07-13T05:40:00+00:00",
+      "original_url": "https://demo.invalid/metallurgy/003",
+      "source_name": "合成装备项目库",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "合成项目资讯显示，产线改造将关注轧机传动精度、在线监测和快速换辊能力，采购计划尚在论证。"
+    },
+    {
+      "title": "海外铜矿EPC项目公布选矿厂设备技术交流计划",
+      "published_at": "2026-07-13T03:00:00+00:00",
+      "original_url": "https://demo.invalid/mining/003",
+      "source_name": "合成海外项目网",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "该海外铜矿项目拟就破碎、磨矿、浮选和输送系统开展技术交流，具体招标范围与时间尚未最终确认。"
+    },
+    {
+      "title": "有色金属冶炼企业开展关键设备预测性维护试点",
+      "published_at": "2026-07-12T06:25:00+00:00",
+      "original_url": "https://demo.invalid/metallurgy/004",
+      "source_name": "合成有色资讯",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "试点拟接入振动、温度和润滑状态数据，用于识别冶炼生产线关键传动设备的早期异常。"
+    },
+    {
+      "title": "绿色矿山评价要求新增设备能效与运维指标",
+      "published_at": "2026-07-12T00:20:00+00:00",
+      "original_url": "https://demo.invalid/mining/004",
+      "source_name": "合成政策简报",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "合成政策样例显示，矿山企业需加强关键设备能耗统计、故障记录和全生命周期运维管理。"
+    },
+    {
+      "title": "铁矿选矿线扩能改造关注大型磨机传动可靠性",
+      "published_at": "2026-07-11T08:00:00+00:00",
+      "original_url": "https://demo.invalid/mining/005",
+      "source_name": "合成矿业工程",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "扩能方案围绕破碎、磨矿与磁选环节展开，业主在前期交流中重点关注连续运行能力和备件交付周期。"
+    },
+    {
+      "title": "钢铁行业设备更新项目重视全生命周期成本",
+      "published_at": "2026-07-11T01:15:00+00:00",
+      "original_url": "https://demo.invalid/metallurgy/005",
+      "source_name": "合成工业投资参考",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "多家钢铁企业在设备更新交流中增加能耗、备件、维修工时和停机损失等全生命周期评价指标。"
+    },
+    {
+      "title": "冶金产线数字化改造关注传动系统数据接口标准",
+      "published_at": "2026-07-10T07:50:00+00:00",
+      "original_url": "https://demo.invalid/metallurgy/006",
+      "source_name": "合成智能制造报",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "数字化改造方案要求关键设备提供统一数据接口，以支持状态监测、能效分析和检修工单联动。"
+    },
+    {
+      "title": "煤矿井下输送系统进入年度检修窗口",
+      "published_at": "2026-07-10T02:45:00+00:00",
+      "original_url": "https://demo.invalid/mining/006",
+      "source_name": "合成煤炭设备报",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "部分矿区开始安排刮板输送机和矿用减速机检修，备件盘点和状态检测服务需求增加。"
+    },
+    {
+      "title": "炼钢区域年度检修带动减速机备件需求",
+      "published_at": "2026-07-09T02:20:00+00:00",
+      "original_url": "https://demo.invalid/metallurgy/007",
+      "source_name": "合成钢厂运维",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "炼钢和连铸区域进入检修准备期，现场开始核对关键减速机、联轴器和润滑系统备件库存。"
+    },
+    {
+      "title": "一带一路矿业项目加强本地化备件服务能力",
+      "published_at": "2026-07-09T01:00:00+00:00",
+      "original_url": "https://demo.invalid/mining/007",
+      "source_name": "合成国际矿业",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "海外矿山项目对交付周期和本地服务提出更高要求，设备供应商开始评估区域备件中心和合作伙伴网络。"
+    }
+  ]
+}

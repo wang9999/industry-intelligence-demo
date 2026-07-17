@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-17T09:14:03.579586+00:00",
+  "data_status": "synthetic",
+  "item_count": 14,
+  "files": [
+    "index.html",
+    "style.css",
+    "app.js",
+    "data/news.json",
+    "robots.txt"
+  ]
+}
