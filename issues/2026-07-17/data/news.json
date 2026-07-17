@@ -1,12 +1,12 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-07-17T12:28:34.004981+00:00",
+  "generated_at": "2026-07-17T12:37:02.914792+00:00",
   "data_status": "public-real-live",
   "issue": {
     "period": "2026-07-17",
-    "run_id": "20260717T122825Z-9486de",
+    "run_id": "20260717T123653Z-b2bc90",
     "status": "success",
-    "finished_at": "2026-07-17T12:28:33.904607+00:00",
+    "finished_at": "2026-07-17T12:37:02.541609+00:00",
     "item_count": 26,
     "new_count": 26,
     "duplicate_count": 26,
