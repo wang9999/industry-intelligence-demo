@@ -1,0 +1,328 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-17T12:28:34.004981+00:00",
+  "data_status": "public-real-live",
+  "issue": {
+    "period": "2026-07-17",
+    "run_id": "20260717T122825Z-9486de",
+    "status": "success",
+    "finished_at": "2026-07-17T12:28:33.904607+00:00",
+    "item_count": 26,
+    "new_count": 26,
+    "duplicate_count": 26,
+    "rejected_count": 7,
+    "source_count": 2,
+    "source_success_count": 2,
+    "source_failure_count": 0,
+    "by_industry": [
+      {
+        "industry_id": "metallurgy",
+        "industry_name": "冶金行业",
+        "n": 13
+      },
+      {
+        "industry_id": "mining",
+        "industry_name": "矿山行业",
+        "n": 13
+      }
+    ]
+  },
+  "industries": [
+    {
+      "id": "mining",
+      "name": "矿山行业"
+    },
+    {
+      "id": "metallurgy",
+      "name": "冶金行业"
+    }
+  ],
+  "items": [
+    {
+      "title": "Copper price slides as monster storm bears down on Chile and Iran flare-up rattles metals",
+      "published_at": "2026-07-17T00:43:48+00:00",
+      "display_date": "2026-07-17",
+      "original_url": "https://www.mining.com/monster-storm-bears-down-on-chiles-copper-mines-as-iran-flare-up-rattles-metals/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "A potential Category 5 atmospheric river is battering the world’s biggest copper producer just as US strikes near Iran’s export terminal rattle metals markets.",
+      "is_new": true
+    },
+    {
+      "title": "Canada’s first diamond mine to shut down",
+      "published_at": "2026-07-16T23:01:54+00:00",
+      "display_date": "2026-07-17",
+      "original_url": "https://www.mining.com/canadas-first-diamond-mine-to-shut-down/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "Ekati in the Northwest Territories will shut down following a Supreme Court of British Columbia ruling placed it into receivership this week.",
+      "is_new": true
+    },
+    {
+      "title": "Acid test: IEA warns copper supply outlook has “worsened considerably”",
+      "published_at": "2026-07-16T22:08:27+00:00",
+      "display_date": "2026-07-17",
+      "original_url": "https://www.mining.com/acid-test-iea-warns-copper-supply-outlook-has-worsened-considerably/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "Over a seventh of the world's copper mine output is now hostage to a sulphuric acid market thrown into chaos by the Middle East conflict and Beijing's export ban.",
+      "is_new": true
+    },
+    {
+      "title": "Hitachi Machinery, Pronto sign mine automation solutions MoU",
+      "published_at": "2026-07-16T22:01:27+00:00",
+      "display_date": "2026-07-17",
+      "original_url": "https://www.mining.com/hitachi-machinery-pronto-sign-mine-automation-solutions-mou/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "The companies said they aim to deliver automation solutions that provide customers with a broader range of options.",
+      "is_new": true
+    },
+    {
+      "title": "Copper price: BMI hikes forecasts – structural deficits to bring $17,000 next decade",
+      "published_at": "2026-07-16T17:55:50+00:00",
+      "display_date": "2026-07-17",
+      "original_url": "https://www.mining.com/copper-price-bmi-hikes-forecasts-structural-deficits-to-bring-17000-next-decade/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "BMI's upgraded 2026 outlook still sits below consensus but from 2028 the Fitch unit out-bulls Wall Street, with deficits widening every year to nearly 1.5 million tonnes seen driv…",
+      "is_new": true
+    },
+    {
+      "title": "Central Nevada Gold looks to revive Mule Canyon mine",
+      "published_at": "2026-07-16T16:14:12+00:00",
+      "display_date": "2026-07-17",
+      "original_url": "https://www.mining.com/central-nevada-gold-looks-to-revive-mule-canyon-mine/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "It aims to restart the mine after acquiring it from Newmont, advancing studies, permits and a new resource.",
+      "is_new": true
+    },
+    {
+      "title": "BHP’s first port strike in 26 years rattles iron ore supply",
+      "published_at": "2026-07-16T10:49:00+00:00",
+      "display_date": "2026-07-16",
+      "original_url": "https://www.mining.com/bhps-first-port-strike-in-26-years-rattles-iron-ore-supply/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "Union action at Port Hedland raises fresh concerns over iron ore exports as wage negotiations remain deadlocked.",
+      "is_new": true
+    },
+    {
+      "title": "Op-Ed: Mining’s hidden margin leak isn’t labour, it’s reliability",
+      "published_at": "2026-07-16T10:04:00+00:00",
+      "display_date": "2026-07-16",
+      "original_url": "https://www.mining.com/op-ed-minings-hidden-margin-leak-isnt-labour-its-reliability/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "The key difference between efficient and inefficient mines often lies in reliability, not in labour.",
+      "is_new": true
+    },
+    {
+      "title": "BHP copper output slips 5% in Q4, flags further decline in Chile",
+      "published_at": "2026-07-15T23:55:52+00:00",
+      "display_date": "2026-07-16",
+      "original_url": "https://www.mining.com/bhp-copper-output-slips-5-in-q4-flags-further-decline-in-chile/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "Stronger prices cushioned the volume drop as BHP advanced Escondida, Cerro Colorado and its Argentina and Arizona copper projects to counter grade decline.",
+      "is_new": true
+    },
+    {
+      "title": "Glomar Minerals launches new research expedition in Pacific’s Clarion Clipperton Zone",
+      "published_at": "2026-07-15T22:41:08+00:00",
+      "display_date": "2026-07-16",
+      "original_url": "https://www.mining.com/glomar-minerals-launches-new-research-expedition-in-pacifics-clarion-clipperton-zone/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "The new 75-day research mission will be the first to gather geological and biological samples in the company's second license area.",
+      "is_new": true
+    },
+    {
+      "title": "Cameco restarts Cigar Lake uranium mine",
+      "published_at": "2026-07-15T19:24:01+00:00",
+      "display_date": "2026-07-16",
+      "original_url": "https://www.mining.com/cameco-restarts-cigar-lake-uranium-mine/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "On July 1, Cameco temporarily suspended operations, citing disruptions at the McClean Lake mill.",
+      "is_new": true
+    },
+    {
+      "title": "Greenland Mines lifts contained PGM by 31% at Skaergaard",
+      "published_at": "2026-07-15T16:18:40+00:00",
+      "display_date": "2026-07-16",
+      "original_url": "https://www.mining.com/greenland-mines-lifts-contained-pgm-by-31-at-skaergaard/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "Skaergaard project boost positiosthe Greenland PGM deposit among top undeveloped assets.",
+      "is_new": true
+    },
+    {
+      "title": "Mining companies are on their own in the Sahel, says risk analyst",
+      "published_at": "2026-07-15T15:51:55+00:00",
+      "display_date": "2026-07-15",
+      "original_url": "https://www.mining.com/mining-companies-are-on-their-own-in-the-sahel-says-risk-analyst/",
+      "source_name": "MINING.COM",
+      "industry_id": "mining",
+      "industry_name": "矿山行业",
+      "summary": "Critical Risk Team's George McLeod says Russian setbacks, jihadist insurgencies and rising resource nationalism are reshaping the risk map for miners across West Africa and beyond.",
+      "is_new": true
+    },
+    {
+      "title": "May 2026 crude steel production",
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "display_date": "2026-06-23",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/may-2026-crude-steel-production/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "World crude steel production for the 70 countries reporting to worldsteel was 157.9 million tonnes (Mt) in May 2026, a 0.3% decrease compared to May 2025.",
+      "is_new": true
+    },
+    {
+      "title": "World Steel in Figures 2026 now available",
+      "published_at": "2026-06-04T07:00:00+00:00",
+      "display_date": "2026-06-04",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/world-steel-in-figures-2026-now-available/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "World Steel in Figures provides a snapshot of of today’s steel industry, including top steel producers, production by country and processes, demand, trade, and much more.",
+      "is_new": true
+    },
+    {
+      "title": "April 2026 crude steel production",
+      "published_at": "2026-05-22T07:00:00+00:00",
+      "display_date": "2026-05-22",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/april-2026-crude-steel-production/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "World crude steel production for the 69 countries reporting to worldsteel was 153.4 million tonnes (Mt) in April 2026, a 1.9% decrease compared to April 2025.",
+      "is_new": true
+    },
+    {
+      "title": "worldsteel releases 2026 LCI database",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "display_date": "2026-05-20",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/worldsteel-releases-2026-lci-database/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "worldsteel is today releasing its global 2026 Life Cycle Inventory (LCI) database, based on 2024 data. The data captures the full “cradle‑to‑gate” picture of steel production.",
+      "is_new": true
+    },
+    {
+      "title": "March 2026 crude steel production",
+      "published_at": "2026-04-23T07:00:00+00:00",
+      "display_date": "2026-04-23",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/march-2026-crude-steel-production/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "World crude steel production for the 69 countries reporting to worldsteel was 159.9 million tonnes (Mt) in March 2026, a 4.2% decrease compared to March 2025.",
+      "is_new": true
+    },
+    {
+      "title": "worldsteel Short Range Outlook April 2026",
+      "published_at": "2026-04-14T07:00:00+00:00",
+      "display_date": "2026-04-14",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/worldsteel-short-range-outlook-april-2026/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "worldsteel today released its Short Range Outlook (SRO) steel demand forecast for 2026 and 2027. worldsteel forecasts that global demand will grow by 0.3% in 2026 to reach 1,724 M…",
+      "is_new": true
+    },
+    {
+      "title": "worldsteel announces the 2026 Steel Sustainability Champions",
+      "published_at": "2026-04-14T07:00:00+00:00",
+      "display_date": "2026-04-14",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/worldsteel-announces-the-2026-steel-sustainability-champions/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "worldsteel has recognised 14 companies as Steel Sustainability Champions for their work in 2025. Find out which companies are the 2026 Steel Sustainability Champions.",
+      "is_new": true
+    },
+    {
+      "title": "steelChallenge-20 World Champions announcement",
+      "published_at": "2026-04-14T07:00:00+00:00",
+      "display_date": "2026-04-14",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/steelchallenge-20-world-champions-announcement/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "worldsteel today announced the new World Champions of the 20th steelChallenge. There are two winners, one in the industry category, one in the student category. Find out who they…",
+      "is_new": true
+    },
+    {
+      "title": "worldsteel welcomes new members and new Director General",
+      "published_at": "2026-04-14T07:00:00+00:00",
+      "display_date": "2026-04-14",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/worldsteel-welcomes-new-members-and-new-director-general/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "The Board of Members of worldsteel has today welcomed seven new regular members and one new affiliated member. We also announced that Dr. Henrik ADAM will lead the association as…",
+      "is_new": true
+    },
+    {
+      "title": "February 2026 crude steel production",
+      "published_at": "2026-03-24T08:00:00+00:00",
+      "display_date": "2026-03-24",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/february-2026-crude-steel-production/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "World crude steel production for the 69 countries reporting to worldsteel was 141.8 million tonnes (Mt) in February 2026, a 2.2% decrease compared to February 2025.",
+      "is_new": true
+    },
+    {
+      "title": "January 2026 crude steel production",
+      "published_at": "2026-02-26T08:00:00+00:00",
+      "display_date": "2026-02-26",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/january-2026-crude-steel-production/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "World crude steel production for the 69 countries reporting to worldsteel was 147.3 million tonnes (Mt) in January 2026, a 6.5% decrease compared to January 2025.",
+      "is_new": true
+    },
+    {
+      "title": "December 2025 crude steel production and 2025 global crude steel production totals",
+      "published_at": "2026-01-23T08:00:00+00:00",
+      "display_date": "2026-01-23",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/december-2025-crude-steel-production-2025-global-crude-steel-production/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "World crude steel production for the 70 countries reporting to the worldsteel was 139.6 million tonnes (Mt) in December 2025, a 3.7% decrease compared to December 2024.",
+      "is_new": true
+    },
+    {
+      "title": "worldsteel releases indirect trade in steel data 2014 – 2024",
+      "published_at": "2026-01-13T08:00:00+00:00",
+      "display_date": "2026-01-13",
+      "original_url": "https://worldsteel.org/media/press-releases/2026/worldsteel-releases-indirect-trade-in-steel-data-2014-2024/",
+      "source_name": "World Steel Association",
+      "industry_id": "metallurgy",
+      "industry_name": "冶金行业",
+      "summary": "From 2014 to 2024, indirect exports of steel to the 74 countries analysed increased by 26%, from 325 Mt in 2014 to 410 Mt in 2024. Our newly released report provides country-level…",
+      "is_new": true
+    }
+  ]
+}

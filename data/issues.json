@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-17T12:28:34.004981+00:00",
+  "data_status": "public-real-live",
+  "published_days": 1,
+  "issues": [
+    {
+      "period": "2026-07-17",
+      "run_id": "20260717T122825Z-9486de",
+      "status": "success",
+      "item_count": 26,
+      "new_count": 26,
+      "duplicate_count": 26,
+      "rejected_count": 7,
+      "source_count": 2,
+      "source_success_count": 2,
+      "source_failure_count": 0,
+      "by_industry": [
+        {
+          "industry_id": "metallurgy",
+          "industry_name": "冶金行业",
+          "n": 13
+        },
+        {
+          "industry_id": "mining",
+          "industry_name": "矿山行业",
+          "n": 13
+        }
+      ]
+    }
+  ]
+}
