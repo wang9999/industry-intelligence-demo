@@ -1,16 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-07-18T09:44:44.217326+00:00",
+  "generated_at": "2026-07-18T15:30:15.492969+00:00",
   "data_status": "public-real-live",
   "published_days": 2,
   "issues": [
     {
       "period": "2026-07-18",
-      "run_id": "20260718T094435Z-ed8007",
+      "run_id": "20260718T153002Z-9e2f57",
       "status": "success",
       "item_count": 24,
       "new_count": 4,
-      "duplicate_count": 20,
+      "duplicate_count": 24,
       "rejected_count": 9,
       "source_count": 2,
       "source_success_count": 2,
