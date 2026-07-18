@@ -1,12 +1,36 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-07-17T12:37:02.914792+00:00",
+  "generated_at": "2026-07-18T09:44:44.217326+00:00",
   "data_status": "public-real-live",
-  "published_days": 1,
+  "published_days": 2,
   "issues": [
     {
+      "period": "2026-07-18",
+      "run_id": "20260718T094435Z-ed8007",
+      "status": "success",
+      "item_count": 24,
+      "new_count": 4,
+      "duplicate_count": 20,
+      "rejected_count": 9,
+      "source_count": 2,
+      "source_success_count": 2,
+      "source_failure_count": 0,
+      "by_industry": [
+        {
+          "industry_id": "metallurgy",
+          "industry_name": "冶金行业",
+          "n": 13
+        },
+        {
+          "industry_id": "mining",
+          "industry_name": "矿山行业",
+          "n": 11
+        }
+      ]
+    },
+    {
       "period": "2026-07-17",
-      "run_id": "20260717T123653Z-b2bc90",
+      "run_id": "20260717T122825Z-9486de",
       "status": "success",
       "item_count": 26,
       "new_count": 26,
