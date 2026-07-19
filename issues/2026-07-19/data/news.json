@@ -3,12 +3,12 @@
   "generated_at": "2026-07-19T15:30:15.569074+00:00",
   "data_status": "public-real-live",
   "issue": {
-    "period": "2026-07-18",
-    "run_id": "20260718T153002Z-9e2f57",
+    "period": "2026-07-19",
+    "run_id": "20260719T153006Z-c6bf4c",
     "status": "success",
-    "finished_at": "2026-07-18T15:30:15.117523+00:00",
+    "finished_at": "2026-07-19T15:30:15.176823+00:00",
     "item_count": 24,
-    "new_count": 4,
+    "new_count": 0,
     "duplicate_count": 24,
     "rejected_count": 9,
     "source_count": 2,
@@ -47,7 +47,7 @@
       "industry_id": "mining",
       "industry_name": "矿山行业",
       "summary": "The company envisions the Yellowhead as a 90,000-tonne-per-day open pit mine that would run for 25 years.",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Rule Symposium Video: Mining M&A wave seen building",
@@ -58,7 +58,7 @@
       "industry_id": "mining",
       "industry_name": "矿山行业",
       "summary": "Capital markets have pushed miners to return cash through dividends and share buybacks after the sector’s costly spending spree from 2000 to 2010.",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "US widens lead over Europe in critical minerals race: WSJ",
@@ -69,7 +69,7 @@
       "industry_id": "mining",
       "industry_name": "矿山行业",
       "summary": "US critical minerals spending is outpacing Europe, raising fears EU manufacturers may stay reliant on China for key raw materials.",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "CHART: Gold price holds $4,000 as mining stocks bear the brunt",
@@ -80,7 +80,7 @@
       "industry_id": "mining",
       "industry_name": "矿山行业",
       "summary": "Gold is whipsawing around $4,000 in its worst week since early June and the median big precious metals stock now trades almost 40% below its 52-week high.",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Copper price slides as monster storm bears down on Chile and Iran flare-up rattles metals",
